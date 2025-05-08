@@ -1,6 +1,5 @@
 - name: Validate YAML Schema
   uses: JKarwatka/validate-yaml-schema-action@0.2.4-alpha
-
 name: Qodana
 on:
   workflow_dispatch: sdjusahdsahihdsuhk
